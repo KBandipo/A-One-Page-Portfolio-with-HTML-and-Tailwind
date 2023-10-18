@@ -8,3 +8,7 @@
 .github-link {
   @apply text-orange-950 hover:font-semibold hover:italic hover:text-orange-950 hover:underline;
 }
+
+.contact-input-text {
+  @apply w-[60%] rounded border px-3 py-2 shadow-lg;
+}

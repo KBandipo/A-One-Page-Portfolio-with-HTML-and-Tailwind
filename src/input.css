@@ -2,6 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.social-link {
+.social-media-link {
   @apply text-orange-900 hover:font-semibold hover:italic hover:text-orange-950;
 }

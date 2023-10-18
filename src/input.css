@@ -5,3 +5,6 @@
 .social-media-link {
   @apply text-orange-900 hover:font-semibold hover:italic hover:text-orange-950;
 }
+.github-link {
+  @apply text-orange-950 hover:font-semibold hover:italic hover:text-orange-950 hover:underline;
+}
